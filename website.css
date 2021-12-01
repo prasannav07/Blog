@@ -1,4 +1,7 @@
-
+body
+{
+overflow: scroll;
+}
 .Phishing{
     
     width: 100;
